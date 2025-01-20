@@ -1,4 +1,4 @@
-# network
+# Network Security and Privacy
 Abstract—
 Using dynamic routing protocols and web authentication services as examples, this project explores network security and privacy communication. Through the use of dynamic routing, this project aims to connect every network in the topology. Rather than doing local authentication on routers, I'll be using Radius servers and Tacacs servers.
 
